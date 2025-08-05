@@ -1,0 +1,14 @@
+content/
+├── books/
+│   ├── mysteries-of-the-mind.md
+│   ├── galactic-horizons.md
+│   └── gardens-of-solitude.md
+├── blog/
+│   ├── writing-tips-for-new-authors.md
+│   └── behind-the-scenes-galactic-horizons.md
+├── events/
+│   ├── virtual-reading-june-15-2025.md
+│   └── local-book-fair-july-10-2025.md
+└── testimonials/
+    ├── alex-r.md
+    └── morgan-l.md
